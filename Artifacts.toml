@@ -1,135 +1,135 @@
 [[CvxCompress]]
 arch = "aarch64"
-git-tree-sha1 = "d34df5cd252948dbe60c145872c4bcb5aa202a10"
+git-tree-sha1 = "b5d0896d24c4f8adbeeaf57ac4c87b1d4ea5ae94"
 os = "macos"
 
     [[CvxCompress.download]]
-    sha256 = "2db0eb285d5d4713b0ffd8d16120991386aefa3b11468d5d1ab896c2c62f80c8"
-    url = "https://github.com/JuliaBinaryWrappers/CvxCompress_jll.jl/releases/download/CvxCompress-v1.2.0+0/CvxCompress.v1.2.0.aarch64-apple-darwin.tar.gz"
+    sha256 = "991478b3141dbcd84bfd9452cd25c34491b3a3013db39a9195c343d58037126e"
+    url = "https://github.com/JuliaBinaryWrappers/CvxCompress_jll.jl/releases/download/CvxCompress-v1.2.1+0/CvxCompress.v1.2.1.aarch64-apple-darwin.tar.gz"
 [[CvxCompress]]
 arch = "aarch64"
-git-tree-sha1 = "127e1dd4e01e977b2d663c43104333a60b9fe43f"
+git-tree-sha1 = "c9f6704f78c84a749c0a65f71df543e7b0696946"
 libc = "glibc"
 os = "linux"
 
     [[CvxCompress.download]]
-    sha256 = "12085435632707a79a2d1989579d728890e7bfebc721d94e5452bae7f92733bf"
-    url = "https://github.com/JuliaBinaryWrappers/CvxCompress_jll.jl/releases/download/CvxCompress-v1.2.0+0/CvxCompress.v1.2.0.aarch64-linux-gnu.tar.gz"
+    sha256 = "c6c5877dd67d9ab6a60e3063897f372289d17fe3d7b7f7d4861182792efe17d2"
+    url = "https://github.com/JuliaBinaryWrappers/CvxCompress_jll.jl/releases/download/CvxCompress-v1.2.1+0/CvxCompress.v1.2.1.aarch64-linux-gnu.tar.gz"
 [[CvxCompress]]
 arch = "aarch64"
-git-tree-sha1 = "fd18a1c578b0107254fa8b917e8f79266d8924a1"
+git-tree-sha1 = "60ac229c13dc1d56e22a49978dbb6cdd792e8e5e"
 libc = "musl"
 os = "linux"
 
     [[CvxCompress.download]]
-    sha256 = "88e06ec56b1fed756d60b7a716da535f9fa5ab6cd4971b944e83fd2c57e53cd0"
-    url = "https://github.com/JuliaBinaryWrappers/CvxCompress_jll.jl/releases/download/CvxCompress-v1.2.0+0/CvxCompress.v1.2.0.aarch64-linux-musl.tar.gz"
+    sha256 = "dcab39d68b4231b54770b7def83a67aee5004f152a13e30b534a8e767e79d9d8"
+    url = "https://github.com/JuliaBinaryWrappers/CvxCompress_jll.jl/releases/download/CvxCompress-v1.2.1+0/CvxCompress.v1.2.1.aarch64-linux-musl.tar.gz"
 [[CvxCompress]]
 arch = "aarch64"
-git-tree-sha1 = "bf969e388869e978fe2b0bf34605787f5cb42a04"
+git-tree-sha1 = "cdf77be402f71466d2b6af4870fb3c2392067d8e"
 os = "freebsd"
 
     [[CvxCompress.download]]
-    sha256 = "3870eac9201c511421e2adc9b2dda4bee0e33a1b8f851865e7d18b6e202216c0"
-    url = "https://github.com/JuliaBinaryWrappers/CvxCompress_jll.jl/releases/download/CvxCompress-v1.2.0+0/CvxCompress.v1.2.0.aarch64-unknown-freebsd.tar.gz"
+    sha256 = "9d83565ac118f1144c272dcd2487cca9bb06459826f7d6408c5ec0fe20305301"
+    url = "https://github.com/JuliaBinaryWrappers/CvxCompress_jll.jl/releases/download/CvxCompress-v1.2.1+0/CvxCompress.v1.2.1.aarch64-unknown-freebsd.tar.gz"
 [[CvxCompress]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "137f3f6045aee289f21d374b32156c283fc0ba65"
+git-tree-sha1 = "656302331df66aefe1e2b1c494022a55f466ac9f"
 libc = "glibc"
 os = "linux"
 
     [[CvxCompress.download]]
-    sha256 = "6960886f84911ddd5d52773f7d4dc8588e3519905e91c681e8f13dfb39dee14d"
-    url = "https://github.com/JuliaBinaryWrappers/CvxCompress_jll.jl/releases/download/CvxCompress-v1.2.0+0/CvxCompress.v1.2.0.armv6l-linux-gnueabihf.tar.gz"
+    sha256 = "677c638359a8bd6958ae2749560d8d21a5170abcb53ab84391b53535f045199b"
+    url = "https://github.com/JuliaBinaryWrappers/CvxCompress_jll.jl/releases/download/CvxCompress-v1.2.1+0/CvxCompress.v1.2.1.armv6l-linux-gnueabihf.tar.gz"
 [[CvxCompress]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "0d48a77d5f9516dc739e9d142991b7aba7fc3ea9"
+git-tree-sha1 = "d2342770cea15a04e7f489ca3a1b86533fa79d6a"
 libc = "musl"
 os = "linux"
 
     [[CvxCompress.download]]
-    sha256 = "b1f6e9bf1d76306bcc67d1e4a9f7b18ec654c0bfe8f48dcbc6bbad333c36b1a2"
-    url = "https://github.com/JuliaBinaryWrappers/CvxCompress_jll.jl/releases/download/CvxCompress-v1.2.0+0/CvxCompress.v1.2.0.armv6l-linux-musleabihf.tar.gz"
+    sha256 = "639878a257d04dd79b963a70954a9c7b7f89fa98297771da3514354bcc4d6edf"
+    url = "https://github.com/JuliaBinaryWrappers/CvxCompress_jll.jl/releases/download/CvxCompress-v1.2.1+0/CvxCompress.v1.2.1.armv6l-linux-musleabihf.tar.gz"
 [[CvxCompress]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "3ca03f8fe686711e8cd8eb9097ba09a44824a239"
+git-tree-sha1 = "356478fa2d2f526384881d99d2784ab092f6dfeb"
 libc = "glibc"
 os = "linux"
 
     [[CvxCompress.download]]
-    sha256 = "c28518fa86171ffdf05e98c93455215b51335da316ef22458fd972804486ddc8"
-    url = "https://github.com/JuliaBinaryWrappers/CvxCompress_jll.jl/releases/download/CvxCompress-v1.2.0+0/CvxCompress.v1.2.0.armv7l-linux-gnueabihf.tar.gz"
+    sha256 = "35970fef096d6f3e149bdd106bbb51b89409719c3a1c3ef6686e3455a5a90223"
+    url = "https://github.com/JuliaBinaryWrappers/CvxCompress_jll.jl/releases/download/CvxCompress-v1.2.1+0/CvxCompress.v1.2.1.armv7l-linux-gnueabihf.tar.gz"
 [[CvxCompress]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "66bab0ef49e9322c6577b2e586df428def9f6185"
+git-tree-sha1 = "885e57924c98d4925e04a1a1e71104ecd8d66b4f"
 libc = "musl"
 os = "linux"
 
     [[CvxCompress.download]]
-    sha256 = "65f74480dc99230d0b263e84a20c226ad1b2edbbd5d7941c5db0105e828a9835"
-    url = "https://github.com/JuliaBinaryWrappers/CvxCompress_jll.jl/releases/download/CvxCompress-v1.2.0+0/CvxCompress.v1.2.0.armv7l-linux-musleabihf.tar.gz"
+    sha256 = "fc8413abb89c5999e629e3096afa031c38ddbc31096ead134ea59ce18dbaa45d"
+    url = "https://github.com/JuliaBinaryWrappers/CvxCompress_jll.jl/releases/download/CvxCompress-v1.2.1+0/CvxCompress.v1.2.1.armv7l-linux-musleabihf.tar.gz"
 [[CvxCompress]]
 arch = "i686"
-git-tree-sha1 = "49dad42f7900d28b8bbd485fe910804982e70c37"
+git-tree-sha1 = "fe648379988cb1ebceb73c6b83ef27cdde57a614"
 libc = "glibc"
 os = "linux"
 
     [[CvxCompress.download]]
-    sha256 = "2f0831ea4cd882ecfa8f4e926d56ddbfe05bf71b50c0bba12473c5475c539738"
-    url = "https://github.com/JuliaBinaryWrappers/CvxCompress_jll.jl/releases/download/CvxCompress-v1.2.0+0/CvxCompress.v1.2.0.i686-linux-gnu.tar.gz"
+    sha256 = "063463e4a6fe90171f0cffa19ce324eb874462a4c154323e088e6ffa8622aaf1"
+    url = "https://github.com/JuliaBinaryWrappers/CvxCompress_jll.jl/releases/download/CvxCompress-v1.2.1+0/CvxCompress.v1.2.1.i686-linux-gnu.tar.gz"
 [[CvxCompress]]
 arch = "i686"
-git-tree-sha1 = "f9aa9e90d5d31732867aa44d377ac8aea0dd66e2"
+git-tree-sha1 = "a36225bcbff6d1b0f986b8100041aee0a5753315"
 libc = "musl"
 os = "linux"
 
     [[CvxCompress.download]]
-    sha256 = "444d376cb8b15330c7d601a61312247698f0d3678b8683af50c152f73bb52b72"
-    url = "https://github.com/JuliaBinaryWrappers/CvxCompress_jll.jl/releases/download/CvxCompress-v1.2.0+0/CvxCompress.v1.2.0.i686-linux-musl.tar.gz"
+    sha256 = "4f4fc7916318e28c500d0c312d77e518deac0b7eeb6e52355740bffc73a5b18c"
+    url = "https://github.com/JuliaBinaryWrappers/CvxCompress_jll.jl/releases/download/CvxCompress-v1.2.1+0/CvxCompress.v1.2.1.i686-linux-musl.tar.gz"
 [[CvxCompress]]
 arch = "powerpc64le"
-git-tree-sha1 = "da9b4c93c202f512292f2b0c45a7723989c7b04b"
+git-tree-sha1 = "c9e2e2ff8182cc5ab096dc55391258a3cb4595c9"
 libc = "glibc"
 os = "linux"
 
     [[CvxCompress.download]]
-    sha256 = "0d80558ac55b69cf2021abec34fdec9c2caf4a5d150556939719cfabc007f30f"
-    url = "https://github.com/JuliaBinaryWrappers/CvxCompress_jll.jl/releases/download/CvxCompress-v1.2.0+0/CvxCompress.v1.2.0.powerpc64le-linux-gnu.tar.gz"
+    sha256 = "4681883a4717ffb68e727d7b49a3d8ec8f7dec2e889d29efd55f38f2f6d13b56"
+    url = "https://github.com/JuliaBinaryWrappers/CvxCompress_jll.jl/releases/download/CvxCompress-v1.2.1+0/CvxCompress.v1.2.1.powerpc64le-linux-gnu.tar.gz"
 [[CvxCompress]]
 arch = "x86_64"
-git-tree-sha1 = "a8508e0600075ec566a4746555c4ed8915cd1616"
+git-tree-sha1 = "a133de701b1ec5247ce19dbabf018e6ce3a1e237"
 os = "macos"
 
     [[CvxCompress.download]]
-    sha256 = "3243706166a3974a85de3b34f6acf546f53071ced3591771ef6eda254ebd84ba"
-    url = "https://github.com/JuliaBinaryWrappers/CvxCompress_jll.jl/releases/download/CvxCompress-v1.2.0+0/CvxCompress.v1.2.0.x86_64-apple-darwin.tar.gz"
+    sha256 = "4aa4af5ad214e625aa5d7ef76ca5b3bf783be0d5892a80d783e5f396fe8c6626"
+    url = "https://github.com/JuliaBinaryWrappers/CvxCompress_jll.jl/releases/download/CvxCompress-v1.2.1+0/CvxCompress.v1.2.1.x86_64-apple-darwin.tar.gz"
 [[CvxCompress]]
 arch = "x86_64"
-git-tree-sha1 = "c523a2c5beda523b5e9076e5eb593e40bb395f28"
+git-tree-sha1 = "378a06e0ce34532742b956fbdae5065c0676187b"
 libc = "glibc"
 os = "linux"
 
     [[CvxCompress.download]]
-    sha256 = "f509e0f73a791cd9b5320a3bbb71ba4468f64b6ec32eb768aa8572676473182f"
-    url = "https://github.com/JuliaBinaryWrappers/CvxCompress_jll.jl/releases/download/CvxCompress-v1.2.0+0/CvxCompress.v1.2.0.x86_64-linux-gnu.tar.gz"
+    sha256 = "72effc28d219ea1770b30ae55d600e4f3cbfd0ab7bb74bd54e6ed88fecff7f07"
+    url = "https://github.com/JuliaBinaryWrappers/CvxCompress_jll.jl/releases/download/CvxCompress-v1.2.1+0/CvxCompress.v1.2.1.x86_64-linux-gnu.tar.gz"
 [[CvxCompress]]
 arch = "x86_64"
-git-tree-sha1 = "3224013c3de48879d688fd8aa0526d58cd222d87"
+git-tree-sha1 = "410880275fe791d1639ed165f24c879ba6b1853a"
 libc = "musl"
 os = "linux"
 
     [[CvxCompress.download]]
-    sha256 = "25748c0fd1ccec08de8825c0288ba906423a44f05196e1eba7073b5cb7ef318a"
-    url = "https://github.com/JuliaBinaryWrappers/CvxCompress_jll.jl/releases/download/CvxCompress-v1.2.0+0/CvxCompress.v1.2.0.x86_64-linux-musl.tar.gz"
+    sha256 = "c8c2ed95fc74fc68eccc04794721e7c62acc96ecd1e988d585bc12af08e9f8ef"
+    url = "https://github.com/JuliaBinaryWrappers/CvxCompress_jll.jl/releases/download/CvxCompress-v1.2.1+0/CvxCompress.v1.2.1.x86_64-linux-musl.tar.gz"
 [[CvxCompress]]
 arch = "x86_64"
-git-tree-sha1 = "7e7a0f91dc475fb22f3891a70e077c8a2a64df6c"
+git-tree-sha1 = "4b932458e24cc22d0bf4a5682fda3b4fe8fc6477"
 os = "freebsd"
 
     [[CvxCompress.download]]
-    sha256 = "9a68e07eef0146c57ef8e47afaf3a89ef901c65af662c98a3f9838067049b519"
-    url = "https://github.com/JuliaBinaryWrappers/CvxCompress_jll.jl/releases/download/CvxCompress-v1.2.0+0/CvxCompress.v1.2.0.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "7d9573e36c891cce8f69c43781023b873b386faed9b3f1571abec544aa75528f"
+    url = "https://github.com/JuliaBinaryWrappers/CvxCompress_jll.jl/releases/download/CvxCompress-v1.2.1+0/CvxCompress.v1.2.1.x86_64-unknown-freebsd.tar.gz"
